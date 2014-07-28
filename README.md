@@ -27,8 +27,8 @@ Projects that have been done before and i think will help:
 
  - When I went up to Manchester's Maker faire (All the way from London!), I met Will Jessop and his awesome ping-pong robot. Although it is rather different, and has a different purpose, he had managed to interface an xbox controller with the pi to control it! I found his gamepad code https://github.com/wjessop/gamepad, and im going to try to use that to help control the Pi. Only thing is, it is mac only :(. I decided: http://pingus.seul.org/~grumbel/xboxdrv/ would be good after a bit of googling, but even so, Will's ping-pong machine has some quite good code, so going to be using some of it for inspiration aswell :D
 
-So, I hope it goes well... and soon it should be working!
-Feel free to contribute and/or make your own Car. I'm going to be posting an Instructable (on instructables) if it works, meanwhile any help would be great :D. My profile is http://www.instructables.com/member/madminor - Favourite and follow. Email is rickyeatough @ gmail . com. Feel free to email me about anything.
+
+So, I hope it goes well... and soon it should be working! Feel free to contribute and/or make your own Car. I'm going to be posting an Instructable (on Instructables) if it works, meanwhile any help would be great :D. My profile is http://www.instructables.com/member/madminor - Favourite and follow. Email is rickyeatough@gmail.com. Feel free to email me about anything.
 
 
 - Ricky
